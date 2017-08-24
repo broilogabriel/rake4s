@@ -1,7 +1,7 @@
 package com.broilogabriel
 
 object SmartStops {
-  val wordList: Set[String] = Set(
+  val wordList: Seq[String] = Seq(
     "a",
     "a's",
     "able",
